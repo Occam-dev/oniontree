@@ -1,67 +1,52 @@
 name: Dark Market
 urls:
-- http://darkevuygggqkqhq.onion
-- http://darkmarkl7f5hz5f.onion
-- http://darkmarkhbh2xyel.onion
-- http://darkmarkmxukc633.onion
-- http://darkmarketsomqvzqfjudpd6t5eabgvvpplrbtzq6prervyogenlrlqd.onion
-- http://darknet3ysxpbjtvbtyqorzuq3bp4pk3vt4fuhqxz6h2bzj2kyjbisqd.onion
-- http://darknet4rbfizlg53dwc5lt5hj4mewcgltubcpvrfpvjavm64inaf3ad.onion
-- http://darknet5kpf7i3kulnljiwvf3q4sm2z66kbrdeuxyyhxutyt3inp7fid.onion
-- http://darknetbtvqwqs2zat37nvl7do63xmjmjuns6ptiewwqzjlyygovgfad.onion
+- http://darkabh3po5cippaxuumkbkvbn7q6kft5f3jgsnnfgbu2ezfgtdpdyad.onion
+- http://darkco2t6gjujeo27e5mt5d3vjeadanffuiosml7xc4zjat5l4o4vnqd.onion
+- http://darktefnkbffrjysw3x7l7axpsomvmjowtg5fihww3ykayohw2rdaqqd.onion
+- http://darkuxzzyzsbp2gcuzetezabm2lj6umkesotoz6mna2jrwz53fatmjyd.onion
 public_keys:
 - id: BEA6D2BFB87A8EEE
   user_id: Dark Admin <dark@darkmarket.onion>
-  fingerprint: 34788432A2CDB94590596D7CBEA6D2BFB87A8EEE
+  fingerprint: A7B59F702D418A84454F8BE23052A92D4D58BEAF
   value: |
     -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-    mQINBFz1z6MBEADchQvQwK5WaTKx5gJPDJJX6YLzhkdGpyI2HdrALXih/V0hjv8O
-    TGYkmy217GK0V9RGbozQrz1rv5gO+Bwddu3I5fCa4tQNpKAkcTlxOkDuQnRZrH8h
-    aq2S/zuzYkyBvyNfDvvSlB/lrHEPSi1QqcbM3lJGRKnErxx15zNPxLpaarhHW7pQ
-    AhTyHEC31aJjUFrm3K98101EdqNTcmR0J4WeyLBVaMnekCU/HBdHzjyC0EVMzl5h
-    ng53MF/QaThzE7yQfpShqQ7wrlPpNEpq8DgLaxwJkGwnO2vqX1TVx6G0ih3grFeA
-    14AdWe0jW0+8+VUIlqQnu0nf80DTdh6yYVt7wIQgVZoEkXGAn/V6kKeSeT7mQ2ae
-    msJEIyCMHRQeBkL+3gwUf4W8x9x7XLNYTHRp/UyvrZ4eq9RWzmwOia/W8Jbmv0j0
-    puSJh7RTgTQC6yQm9wdcDpTMqv7TUaNgZtfDy93fescR49LKjze5Hxuy1HaKinOZ
-    cYeN3az2qf/V0tVkBojBaOwCkElKUlJtmGhtHIY+rSkWL2k34nKCaRQcQQydb7pF
-    PILO06r9dQL/cU4jZW6LRG2vE/ZTMWOZ8KCoqCwyavxL7fRN9WpH3OPIy+c1tkQa
-    zVOGNcT7m76aJSH9neaaICN7dpoPtjBm8xohHQPZdrU/3mgCIIjekwAyywARAQAB
-    tCJEYXJrIEFkbWluIDxkYXJrQGRhcmttYXJrZXQub25pb24+iQJOBBMBCgA4FiEE
-    NHiEMqLNuUWQWW18vqbSv7h6ju4FAlz1z6MCGwMFCwkIBwIGFQoJCAsCBBYCAwEC
-    HgECF4AACgkQvqbSv7h6ju5w/w/+M0fKZpxzExHk4SY/zEjuZC+UK9Uk5ifkkybh
-    7hnGBntwZteOIGch3dbrxam08RejZYAftTFpyggMb/9A25/KhS+1aCmqUUu9PdFR
-    pudaNSRxcqoxeiTC/gO1fdeUzVAQb24cZ3cPvOUK+Gey2fw6u7Bgr0lfkURO6QaT
-    qLKOgQn8kjUE/1cj9Z6jKIXo/T9EpK16s39Uq4YkCgn7rDyXSal/HGeyotZ2v08c
-    DFo4mcI9jDiRzq/upZvKL8ctTyIkMuBZjBN8cn5nnwn5+vnEPvFPywFm7AOrWISF
-    VHkaszYTvf0QA4mCrPG/2kTRN8sQNFzsWrR5JYRQ8cUH2SAWI4CqS8Ma8HLz/PH3
-    2d2OXQQKiDJVoHUIi3TY3fFuaMU9KD8l3WonNZdpHCK6gXVpXcQ6tanZLA111exl
-    JqcFyPUOED1G5SoptWXnRlVeV5bpgIM4oisWgdXr5BeK6VoBIfxM1P8nb0/7CMRt
-    AKbU2KGQWuDw/DtoM+6haP2yIyBPCbhZG82SDuYy73DZBpTl+1igX9pFhvjl4Y/4
-    UDuyysmsBzT2nr1GZYTkKNgCppmWuHQIUw5EOMODPehijW17qx/yBX3eAjECxBSm
-    qZ5kKw8z6Rh9A3JsF+J6eRrBI/rYwbbLXss2sTuJgwUWu3ZmiFppZ9LhFE0Z76sn
-    FZ08W3W5Ag0EXPXPowEQAOcGGBkEHCvLvpB+dNGcKqdm/78V7V9w3AVHGEMLhErt
-    2UZsGgS0jahBRrreJohsEMawAbxRWMjgG9/PzZgWjtW9t3Qh9UjFeCMDXrdfkTh5
-    lgeQUbe05Qi7Fc5NZ9hDbuREe2/jQ2NtZLcKoNmjSCq2vEGPGyvKpxUFoyr+B5/K
-    WPJ29G0LJ0DdRJ/UFKQe5Lnw/Ka07AaArYBjvBvyJXyvkYua5IY8JYyGXcsblCVO
-    x4n0RJEn2bSHnKqL/FlWuWvQj1R3Zp/UiDEJv4n1T1oZ4ey973hQT+PgPUm8we4T
-    BiWZdNnGXnNah+vtlywrhLSPtAhgXOGZsc04eCBNsbrWu0mrjoiSrfZh/MSDCCK3
-    zef0wr21LpKnspJDnv418fKawHhAT/R5pIk1uts4RgkGxDQsptmmw4Qdu0TPxxf/
-    G8VdieJoozPDhe7R64XpF17oARJJlYCHP0UU0F8zVFbdn3NWsgQ8VLPml1Xum/Ni
-    vQEmxpY7u9br99CfwFFcNeflVdMTJajj1npAyZVP+WbjFjp++B97RycAk8Hdn04y
-    ZjrP8yvOHk67RnUIqzIxW761NdE4UN2SIVj94Of+s7VTna7VoFbQWVjWv9Hg7pMj
-    qDY24czZMKnqugQYa30LOsI5h+AznOz6g7u2oDr/B4Z29YBIA5eH500p70v6RvZx
-    ABEBAAGJAjYEGAEKACAWIQQ0eIQyos25RZBZbXy+ptK/uHqO7gUCXPXPowIbDAAK
-    CRC+ptK/uHqO7iclD/9dYmcMVbeVVcFGzQE+++EvfQ4ljRiUQSCW6S2JQ4vMIU8N
-    2zAOUkR03mUyr1Gr2J5p9xFItZ5L6s+Ad/zsTGVGKw7+OONg8iN1lCoY7RJcV6SW
-    gK+urDwmTMTVenOFAtifE7g30YW+/D3pyXuhTjbbvg2JkKL0XRd0+91a4b6LXL06
-    AFfuiXqfVrri8tu786ugizwsJqAQlwVes8sVABAgZJbLqBZRhaJeuAdX7yXGiD1t
-    I0dvzBEA6zRhhPLQ5M7bx6tBBy9g7+cyhn36nUi8z/jy0yCYPAf6+s5stfv8Xw2c
-    dcv1JQQzFI3ls3zgAAg+aNb36xSzKOKHLdy3tkcNhy+j+Hy13bqQW0qF74k4MzSZ
-    hfSdc2P3R4uuxEn9zMwQ0nmzBhV6CrKnKL6V4hfRYSKL1Ni8wkA1YvXv37ZCI6cC
-    8I5htrf4zID7eXZc3yha3XW3rpK7sbaRvGoLlegW8yQqPbaiFYQFIphW/uSY0Kcr
-    cf9RqZ2L+mkbhUn9/MzYdebR80ffUAcL4RN79BmHvZFIq3yUTDwLGnui34iI6Lkt
-    CunU5Dki77/IHZBc6CM+h49V7VjpA63XhJ9YpCFahB29yoHcNPrUTjIxVRgjm/Yx
-    b9cZ0az6/wc0Y/r2qw1vxDLjckuK2T2d68dduvAcqIQLx7HB4n82kW5deDWFVA==
-    =12Bd<br>
+    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
+    nBzibx8laGfu72kpL692YV1P9vO7tw+UYSU=
+    =akSC
     -----END PGP PUBLIC KEY BLOCK-----
